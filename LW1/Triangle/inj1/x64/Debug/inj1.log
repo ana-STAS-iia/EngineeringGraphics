@@ -1,2 +1,11 @@
 ﻿  inj1.cpp
-  inj1.vcxproj -> C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\x64\Debug\inj1.exe
+C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\inj1\inj1.cpp(119,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\inj1\inj1.cpp(119,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\inj1\inj1.cpp(120,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\inj1\inj1.cpp(120,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\inj1\inj1.cpp(121,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\inj1\inj1.cpp(121,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\inj1\inj1.cpp(168,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\inj1\inj1.cpp(334,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\inj1\inj1.cpp(367,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  inj1.vcxproj -> C:\Users\Анастасия\Documents\GitHub\EngineeringGraphics\LW1\Triangle\x64\Debug\inj1.exe

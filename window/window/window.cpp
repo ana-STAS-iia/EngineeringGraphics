@@ -296,9 +296,9 @@ static void RenderSceneCB()
 
     Pipeline p;
     p.Rotate(0.0f, Scale * 90, 0.0f); //вращение
-    p.WorldPos(0.0f, 0.0f, 3.0f); //позиция объекта, перемещение по X
+    p.WorldPos(sinf(Scale), 0.0f, 3.0f); //позиция объекта, перемещение по X
     p.Scale(2.0f, 2.0f, 2.0f); //масштаб, увеличен
-    Vector3f CameraPos(0.0f, sinf(Scale), -3.0f);
+    Vector3f CameraPos(0.0f, 0.0f, -3.0f);
     Vector3f CameraTarget(0.0f, 0.0f, 2.0f);
     Vector3f CameraUp(0.0f, 1.0f, 0.0f);
     p.SetCamera(CameraPos, CameraTarget, CameraUp);
