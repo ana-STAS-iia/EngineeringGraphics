@@ -1,0 +1,10 @@
+﻿  window.cpp
+C:\Users\Анастасия\source\repos\window\window\window.cpp(118,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\window\window\window.cpp(118,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Анастасия\source\repos\window\window\window.cpp(119,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\window\window\window.cpp(119,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Анастасия\source\repos\window\window\window.cpp(120,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\window\window\window.cpp(120,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Анастасия\source\repos\window\window\window.cpp(167,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\window\window\window.cpp(332,49): warning C4305: аргумент: усечение из "double" в "float"
+  window.vcxproj -> C:\Users\Анастасия\source\repos\window\Debug\window.exe
