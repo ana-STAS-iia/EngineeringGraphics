@@ -1,0 +1,19 @@
+﻿  26.cpp
+C:\Users\Анастасия\source\repos\26\26\camera.h(33,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(35,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(39,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(41,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(44,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(50,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(51,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(53,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(53,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(152,30): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(152,26): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(153,30): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(153,26): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(155,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\camera.h(156,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\technique.h(51,1): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+C:\Users\Анастасия\source\repos\26\26\mesh.h(195,1): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  26.vcxproj -> C:\Users\Анастасия\source\repos\26\x64\Debug\26.exe
