@@ -1,0 +1,9 @@
+﻿  33.cpp
+C:\Users\Анастасия\source\repos\33\33\Camera.h(116,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\33\33\Camera.h(118,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\33\33\Camera.h(122,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\33\33\Camera.h(124,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\33\33\Camera.h(127,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Анастасия\source\repos\33\33\Technique.h(79,1): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+C:\Users\Анастасия\source\repos\33\33\33.cpp(202,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  33.vcxproj -> C:\Users\Анастасия\source\repos\33\x64\Debug\33.exe
